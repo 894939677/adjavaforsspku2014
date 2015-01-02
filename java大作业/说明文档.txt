@@ -1,0 +1,9 @@
+图片为软件展示的分析结果。
+
+word为爬虫的具体内容。
+
+ZhiHu文件夹为myEclipse工程文件。
+src为其中的源代码。
+
+zhihu.sql为数据库建表语句。
+json_jar文件为myeclipse需要的jar文件。
